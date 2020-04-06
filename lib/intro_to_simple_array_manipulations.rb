@@ -2,11 +2,11 @@ def using_concat (array1,array2)
   
 end
 
-def using_concat (array1,array2)
+def using_insert (array1,array2)
   
 end
 
-def using_concat (array1,array2)
+def using_uniq (array)
   
 end
 
